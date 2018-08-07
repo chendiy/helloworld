@@ -9,3 +9,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 $ cat readme.txt 
 My stupid boss still prefers SVN.
+My stupid boss still prefers SVN.
